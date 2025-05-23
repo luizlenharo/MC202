@@ -1,0 +1,15 @@
+{
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["<ESC>"],
+            "after": ["j", "k"]
+        }
+    ],
+    "files.associations": {
+        "stdio.h": "c",
+        "peca.h": "c",
+        "type_traits": "c",
+        "cmath": "c",
+        "string.h": "c"
+    },
+}
